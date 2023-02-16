@@ -1,1 +1,4 @@
-Record=TopLevelDocument|FileName=GroundSupport.SchDoc|SheetNumber=1
+Record=TopLevelDocument|FileName=01_Overview.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=01_Overview.SchDoc|FileName=02_Power.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=01_Overview.SchDoc|FileName=03_Sensors_and_WirelessCommunication.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=01_Overview.SchDoc|FileName=04_Relay_Control.SchDoc|SheetNumber=4
