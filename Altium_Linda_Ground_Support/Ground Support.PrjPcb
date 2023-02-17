@@ -185,13 +185,13 @@ GenerateClassCluster=0
 DocumentUniqueId=QDLYLSGQ
 
 [Document9]
-DocumentPath=06_Relays.SchDoc
+DocumentPath=06_Relays_and_SolenoidValves.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=5
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
