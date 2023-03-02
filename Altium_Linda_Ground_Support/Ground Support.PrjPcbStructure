@@ -5,3 +5,5 @@ Record=NoMainPathDocument|SourceDocument=01_Overview.SchDoc|FileName=04_Temperat
 Record=NoMainPathDocument|SourceDocument=01_Overview.SchDoc|FileName=05_Pressure_and_LoadCell.SchDoc|SheetNumber=5
 Record=NoMainPathDocument|SourceDocument=01_Overview.SchDoc|FileName=06_Relays_and_SolenoidValves.SchDoc|SheetNumber=6
 Record=NoMainPathDocument|SourceDocument=01_Overview.SchDoc|FileName=07_Wireless_Communication.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=01_Overview.SchDoc|FileName=08_LLC_Temperature.SchDoc|SheetNumber=8
+Record=NoMainPathDocument|SourceDocument=01_Overview.SchDoc|FileName=09_Ebox_PhysicalConnections.SchDoc|SheetNumber=9
