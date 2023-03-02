@@ -185,23 +185,6 @@ GenerateClassCluster=0
 DocumentUniqueId=CCIHHIJY
 
 [Document9]
-DocumentPath=07_Wireless_Communication.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=6
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=CABKYWXX
-
-[Document10]
 DocumentPath=08_LLC_Temperature.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -218,7 +201,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IXRWRUVH
 
-[Document11]
+[Document10]
 DocumentPath=09_Ebox_PhysicalConnections.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -235,7 +218,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VPSLPDSG
 
-[Document12]
+[Document11]
 DocumentPath=LindaGroundSupport_OutputJob.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
