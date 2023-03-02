@@ -253,11 +253,11 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Parameter1]
-Name=Drawn By
+Name=Author
 Value=Juan Rafael Muñoz, Jr.
 
 [Parameter2]
-Name=Company
+Name=CompanyName
 Value=Aeronautics and Rocket Club
 
 [Configuration1]
