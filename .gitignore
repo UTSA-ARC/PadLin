@@ -37,6 +37,7 @@
 
 # History Folders
 **/History/*
+.history
 
 # Project Logs
 Project Logs*/
@@ -49,3 +50,5 @@ Project Outputs*/
 
 # Access lock file for dbLib sources
 **/*.ldb
+
+.vscode
